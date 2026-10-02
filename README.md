@@ -1,8 +1,6 @@
 # Supply-Chain-Performance-Analytics
-End-to-end operational analytics &amp; ML predictive modeling on 172K+ orders to diagnose delivery bottlenecks and forecast late shipments using Python &amp; Random Forest.
-> An end-to-end business intelligence and machine learning investigation analyzing *172,765 fulfillment records* to uncover systemic delivery failure points, quantify profit erosion, and deploy an automated late-delivery early alert classifier.
 
-📄 *[Read the Full Executive Report (PDF)](./reports/Supply_Chain_Performance_Complete_Report.pdf)*
+> An end-to-end business intelligence and machine learning investigation analyzing *172,765 fulfillment records* to uncover systemic delivery failure points, quantify profit erosion, and deploy an automated late-delivery early alert classifier.
 
 ---
 
